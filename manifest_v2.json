@@ -1,0 +1,127 @@
+{
+  "item": {
+    "id": "com.SkillMan.wrist-chessroom",
+    "restype": "quick_app",
+    "name": "环间桌游",
+    "description": "多种桌游玩法，给你带来无尽欢乐！持续更新中！\n\n[ 智能AI ]：告别人工智障！内置硬核算牌机器人AlphaGo，它会记牌、懂概率，甚至还能看穿你的“诈唬”并发出嘲讽，给你最真实的牌桌压迫感,看你是否能战胜AlphaGo。\n\n[ 玩法 ]：1、扑克牌模块：21点（免费）、炸金花、三公、牛牛、德州扑克、斗地主。\n               2、皇帝牌对决（免费）。\n               3、大富翁。\n               4、谁是卧底。\n               5、麻将游戏。\n               6、骗子酒馆游戏。",
+    "preview": [
+      "media/21点.png",
+      "media/All-in.png",
+      "media/大富翁.png",
+      "media/大富翁匹配对手.png",
+      "media/个性化.png",
+      "media/皇帝牌游戏页.png",
+      "media/谁是卧底聊天1.png",
+      "media/待出牌.png",
+      "media/胜利结算.png",
+      "media/9p主页.png",
+      "media/选择场次2.png",
+      "media/9p斗地主.png",
+      "media/9p麻将.png",
+      "media/9p骗子酒馆.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/分组_7 (1).png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "环间桌游付费模块全系列购买链接",
+      "url": "https://ifdian.net/item/a32c9e90298f11f1973452540025c377",
+      "icon": "globe"
+    },
+    {
+      "title": "游戏官网",
+      "url": "https://games.skillman.asia/",
+      "icon": "globe-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(红米56).rpk",
+      "versionCode": 5
+    },
+    "xmrw5xring": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(红米56).rpk",
+      "versionCode": 5
+    },
+    "xmrw6": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(红米56).rpk",
+      "versionCode": 5
+    },
+    "xmb10": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(米环10).rpk",
+      "versionCode": 5
+    },
+    "xmb10nfc": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(米环10).rpk",
+      "versionCode": 5
+    },
+    "xmb10p": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(910Pro).rpk",
+      "versionCode": 5
+    },
+    "xmb11": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(米环10).rpk",
+      "versionCode": 5
+    },
+    "xmb11nfc": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(米环10).rpk",
+      "versionCode": 5
+    },
+    "xmb9": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(米环9).rpk",
+      "versionCode": 5
+    },
+    "xmb9p": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(910Pro).rpk",
+      "versionCode": 5
+    },
+    "xmws3": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    },
+    "xmws4xring": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    },
+    "xmws441": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    },
+    "xmws4": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    },
+    "xmws541": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    },
+    "xmws5": {
+      "version": "3.0.0",
+      "file_name": "downloads/环间桌游3.0.0(S345).rpk",
+      "versionCode": 5
+    }
+  },
+  "ext": {}
+}
